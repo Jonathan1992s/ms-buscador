@@ -14,6 +14,7 @@ import java.util.List;
 
 
 @RestController
+@CrossOrigin
 @RequiredArgsConstructor
 public class ProductController {
 
